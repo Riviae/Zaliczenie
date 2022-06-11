@@ -4,5 +4,6 @@ public class Plik1 {
         System.out.println("Hello, cruel world!");
         System.out.println("Welcome to Hell");
         System.out.println("Hot in here");
+        System.out.println("WOW!");
     }
 }
