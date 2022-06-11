@@ -7,5 +7,7 @@ public class Branch {
         for(int i=0;i<10;i++){
             System.out.println("Bang Bang Bang");
         }
+
+        System.out.println("They killed me");
     }
 }
